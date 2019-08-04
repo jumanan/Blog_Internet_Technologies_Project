@@ -1,5 +1,5 @@
 # Blog_Internet_Technologies_Project
-This project was submitted as part of my requirements for the course [Advanced Internet Technologies (2008)](http://moodle.cs.huji.ac.il/cs08/course/view.php?id=67707).
+This project was submitted as part of my requirements for the course [Advanced Internet Technologies (2008)](http://moodle.cs.huji.ac.il/cs08/course/view.php?id=67707). It was done using HTML, js, jsp, css, and servlets.
 
 User Guide:
  
